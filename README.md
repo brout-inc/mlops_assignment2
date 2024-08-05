@@ -1,4 +1,4 @@
-# Assignment-1
+# MLOps Assignment-1
 
 ## M1: MLOps Foundations
 ### Objective: Understand the basics of MLOps and implement a simple CI/CD pipeline.
