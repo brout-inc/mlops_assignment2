@@ -34,4 +34,3 @@ if __name__ == "__main__":
     # Save the trained model
     import joblib
     joblib.dump(model, 'model/mobilephone_price_linear_regression_model.pkl')
-    
