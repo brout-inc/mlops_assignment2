@@ -25,6 +25,7 @@ def train_model(X, y):
     print(f'Model Mean Squared Error: {mse}')
     return model
 
+
 if __name__ == "__main__":
     data = load_data('data/mobile-price-prediction-cleaned_data.csv')
     X, y = preprocess_data(data)
