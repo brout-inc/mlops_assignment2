@@ -1,0 +1,6 @@
+# exclude python cache
+__pycache__/
+# exclude compiled output file generated from source code written in Python programming language
+*.pyc
+# exclude data directory
+data/
