@@ -3,6 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 
+
 def load_data(filepath):
     data = pd.read_csv(filepath)
     return data
@@ -23,7 +24,6 @@ def train_model(X, y):
     mse = mean_squared_error(y_test, predictions)
     print(f'Model Mean Squared Error: {mse}')
     return model
-
 
 if __name__ == "__main__":
     data = load_data('data/mobile-price-prediction-cleaned_data.csv')
