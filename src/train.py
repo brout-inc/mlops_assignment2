@@ -30,3 +30,8 @@ if __name__ == "__main__":
     data = load_data('data/mobile-price-prediction-cleaned_data.csv')
     X, y = preprocess_data(data)
     model = train_model(X, y)
+
+    # Save the trained model
+    import joblib
+    joblib.dump(model, 'model/mobilephone_price_linear_regression_model.pkl')
+    
