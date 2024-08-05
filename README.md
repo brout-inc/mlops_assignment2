@@ -64,5 +64,5 @@
 	•	Description of the work completed
 	•	Justification for the choices made
 	•	A screen recording (maximum 5 minutes) that:
-•	Explains the work done
-•	Shows the results
+	•	Explains the work done
+	•	Shows the results
