@@ -2,18 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
-
-
-def load_data(filepath):
-    data = pd.read_csv(filepath)
-    return data
-
-
-def preprocess_data(data):
-    # Select features and target variable
-    X = data[['Ratings', 'RAM', 'ROM', 'Mobile_Size', 'Primary_Cam', 'Selfi_Cam', 'Battery_Power']]
-    y = data['Price']
-    return X, y
+from data_preprocessing import load_data, preprocess_data, get_features_and_target
 
 
 def train_model(X, y):
@@ -28,7 +17,8 @@ def train_model(X, y):
 
 if __name__ == "__main__":
     data = load_data('data/mobile-price-prediction-cleaned_data.csv')
-    X, y = preprocess_data(data)
+    data = preprocess_data(data)
+    X, y = get_features_and_target(data)
     model = train_model(X, y)
 
     # Save the trained model
