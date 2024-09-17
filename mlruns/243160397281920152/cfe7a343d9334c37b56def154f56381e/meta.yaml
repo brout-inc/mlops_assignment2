@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/cfe7a343d9334c37b56def154f56381e/artifacts
+end_time: 1726576685979
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: cfe7a343d9334c37b56def154f56381e
+run_name: judicious-flea-520
+run_uuid: cfe7a343d9334c37b56def154f56381e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576684192
+status: 3
+tags: []
+user_id: bikashchandrarout

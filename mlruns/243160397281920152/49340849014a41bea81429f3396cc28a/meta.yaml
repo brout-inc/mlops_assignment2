@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/49340849014a41bea81429f3396cc28a/artifacts
+end_time: 1726576654664
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 49340849014a41bea81429f3396cc28a
+run_name: skillful-squid-272
+run_uuid: 49340849014a41bea81429f3396cc28a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576652972
+status: 3
+tags: []
+user_id: bikashchandrarout

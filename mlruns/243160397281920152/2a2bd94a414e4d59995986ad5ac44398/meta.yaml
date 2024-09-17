@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/2a2bd94a414e4d59995986ad5ac44398/artifacts
+end_time: 1726576662132
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 2a2bd94a414e4d59995986ad5ac44398
+run_name: big-tern-339
+run_uuid: 2a2bd94a414e4d59995986ad5ac44398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576660443
+status: 3
+tags: []
+user_id: bikashchandrarout

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/2cf24b83c3934e8c95679741a71b029e/artifacts
+end_time: 1726576694576
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 2cf24b83c3934e8c95679741a71b029e
+run_name: ambitious-fox-713
+run_uuid: 2cf24b83c3934e8c95679741a71b029e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576692954
+status: 3
+tags: []
+user_id: bikashchandrarout

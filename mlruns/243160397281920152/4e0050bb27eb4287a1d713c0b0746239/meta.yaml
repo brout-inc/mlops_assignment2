@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/4e0050bb27eb4287a1d713c0b0746239/artifacts
+end_time: 1726576626690
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 4e0050bb27eb4287a1d713c0b0746239
+run_name: adorable-fowl-299
+run_uuid: 4e0050bb27eb4287a1d713c0b0746239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576624992
+status: 3
+tags: []
+user_id: bikashchandrarout

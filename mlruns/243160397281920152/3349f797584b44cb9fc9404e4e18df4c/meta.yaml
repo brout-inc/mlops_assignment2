@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/3349f797584b44cb9fc9404e4e18df4c/artifacts
+end_time: 1726576671399
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 3349f797584b44cb9fc9404e4e18df4c
+run_name: casual-skunk-208
+run_uuid: 3349f797584b44cb9fc9404e4e18df4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576669695
+status: 3
+tags: []
+user_id: bikashchandrarout

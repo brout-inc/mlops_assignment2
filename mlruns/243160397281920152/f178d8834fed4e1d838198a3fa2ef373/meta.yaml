@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/f178d8834fed4e1d838198a3fa2ef373/artifacts
+end_time: 1726576691185
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: f178d8834fed4e1d838198a3fa2ef373
+run_name: thundering-deer-971
+run_uuid: f178d8834fed4e1d838198a3fa2ef373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576689496
+status: 3
+tags: []
+user_id: bikashchandrarout

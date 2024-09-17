@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/f97e48c03ab94fcdbd83ef98e17a8d4c/artifacts
+end_time: 1726576663901
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: f97e48c03ab94fcdbd83ef98e17a8d4c
+run_name: honorable-duck-746
+run_uuid: f97e48c03ab94fcdbd83ef98e17a8d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576662247
+status: 3
+tags: []
+user_id: bikashchandrarout

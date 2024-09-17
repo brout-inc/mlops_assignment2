@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/15e011dfef5a4f039adf7f7f1eaa929f/artifacts
+end_time: 1726576673250
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 15e011dfef5a4f039adf7f7f1eaa929f
+run_name: victorious-sow-770
+run_uuid: 15e011dfef5a4f039adf7f7f1eaa929f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576671556
+status: 3
+tags: []
+user_id: bikashchandrarout

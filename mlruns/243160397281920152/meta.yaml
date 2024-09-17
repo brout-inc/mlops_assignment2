@@ -1,0 +1,6 @@
+artifact_location: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152
+creation_time: 1726576603289
+experiment_id: '243160397281920152'
+last_update_time: 1726576603289
+lifecycle_stage: active
+name: wine_quality_experiment

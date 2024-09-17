@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1726578419746
+current_stage: None
+description: ''
+last_updated_timestamp: 1726578419746
+name: WineQualityPredictionRandomForest
+run_id: 37758a0e99404b89b207ff86ad1058ac
+run_link: ''
+source: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/37758a0e99404b89b207ff86ad1058ac/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/37758a0e99404b89b207ff86ad1058ac/artifacts/model
+user_id: null
+version: 1

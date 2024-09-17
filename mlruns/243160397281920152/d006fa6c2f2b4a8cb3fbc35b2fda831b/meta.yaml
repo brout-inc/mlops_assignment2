@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/d006fa6c2f2b4a8cb3fbc35b2fda831b/artifacts
+end_time: 1726576656495
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: d006fa6c2f2b4a8cb3fbc35b2fda831b
+run_name: defiant-kit-203
+run_uuid: d006fa6c2f2b4a8cb3fbc35b2fda831b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576654856
+status: 3
+tags: []
+user_id: bikashchandrarout

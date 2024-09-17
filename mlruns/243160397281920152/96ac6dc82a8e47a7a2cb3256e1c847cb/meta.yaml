@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/96ac6dc82a8e47a7a2cb3256e1c847cb/artifacts
+end_time: 1726576628316
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 96ac6dc82a8e47a7a2cb3256e1c847cb
+run_name: resilient-loon-284
+run_uuid: 96ac6dc82a8e47a7a2cb3256e1c847cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576626716
+status: 3
+tags: []
+user_id: bikashchandrarout

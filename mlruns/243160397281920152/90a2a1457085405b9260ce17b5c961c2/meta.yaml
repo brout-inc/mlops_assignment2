@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/90a2a1457085405b9260ce17b5c961c2/artifacts
+end_time: 1726576680390
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 90a2a1457085405b9260ce17b5c961c2
+run_name: gentle-fawn-462
+run_uuid: 90a2a1457085405b9260ce17b5c961c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576678695
+status: 3
+tags: []
+user_id: bikashchandrarout

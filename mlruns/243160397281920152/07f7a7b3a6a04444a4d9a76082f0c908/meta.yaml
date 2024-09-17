@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/07f7a7b3a6a04444a4d9a76082f0c908/artifacts
+end_time: 1726576669500
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 07f7a7b3a6a04444a4d9a76082f0c908
+run_name: skillful-shad-532
+run_uuid: 07f7a7b3a6a04444a4d9a76082f0c908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576667808
+status: 3
+tags: []
+user_id: bikashchandrarout

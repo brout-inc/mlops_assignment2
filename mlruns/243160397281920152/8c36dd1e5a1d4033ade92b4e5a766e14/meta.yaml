@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/8c36dd1e5a1d4033ade92b4e5a766e14/artifacts
+end_time: 1726576665752
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 8c36dd1e5a1d4033ade92b4e5a766e14
+run_name: smiling-boar-112
+run_uuid: 8c36dd1e5a1d4033ade92b4e5a766e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576664064
+status: 3
+tags: []
+user_id: bikashchandrarout

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/7a94190f21b048ebb977ec3af30da496/artifacts
+end_time: 1726576639510
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 7a94190f21b048ebb977ec3af30da496
+run_name: ambitious-dove-95
+run_uuid: 7a94190f21b048ebb977ec3af30da496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576637809
+status: 3
+tags: []
+user_id: bikashchandrarout

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/595aba3ed6b24c3284a52734f02ff92f/artifacts
+end_time: 1726576643233
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 595aba3ed6b24c3284a52734f02ff92f
+run_name: efficient-stag-603
+run_uuid: 595aba3ed6b24c3284a52734f02ff92f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576641522
+status: 3
+tags: []
+user_id: bikashchandrarout

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bikashchandrarout/Downloads/mlops_assignment2/mlruns/243160397281920152/0672afab9b8b472a81cd6cdb575bdcee/artifacts
+end_time: 1726576609212
+entry_point_name: ''
+experiment_id: '243160397281920152'
+lifecycle_stage: active
+run_id: 0672afab9b8b472a81cd6cdb575bdcee
+run_name: redolent-crow-174
+run_uuid: 0672afab9b8b472a81cd6cdb575bdcee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726576603890
+status: 3
+tags: []
+user_id: bikashchandrarout
