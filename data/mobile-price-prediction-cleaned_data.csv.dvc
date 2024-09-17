@@ -1,5 +1,0 @@
-outs:
-- md5: d5c4411591540dd417efa6361eee744d
-  size: 28432
-  hash: md5
-  path: mobile-price-prediction-cleaned_data.csv

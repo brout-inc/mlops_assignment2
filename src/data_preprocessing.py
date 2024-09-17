@@ -1,7 +1,6 @@
-# data processing steps, if any
+# Import Libraries
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
-
+from dataprep.eda import create_report
 
 def load_data(filepath):
     data = pd.read_csv(filepath)
@@ -9,15 +8,18 @@ def load_data(filepath):
 
 
 def preprocess_data(data):
-    # Example preprocessing: scaling numerical features
-    scaler = StandardScaler()
-    data[['RAM', 'ROM', 'Mobile_Size', 'Primary_Cam', 'Selfi_Cam', 'Battery_Power']] = scaler.fit_transform(
-        data[['RAM', 'ROM', 'Mobile_Size', 'Primary_Cam', 'Selfi_Cam', 'Battery_Power']]
-    )
+    # Preprocessing steps
     return data
 
 
-def get_features_and_target(data):
-    X = data[['Ratings', 'RAM', 'ROM', 'Mobile_Size', 'Primary_Cam', 'Selfi_Cam', 'Battery_Power']]
-    y = data['Price']
-    return X, y
+def generate_eda_report(data):
+    #Generate the EDA report
+    report = create_report(data)
+    #Save the report to an HTML file
+    report.save("eda_reports/wine_quality_eda_report.html")
+
+
+if __name__ == '__main__':
+    filepath="data/winequality-red.csv"
+    data = load_data(filepath)
+    generate_eda_report(data)
