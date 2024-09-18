@@ -8,7 +8,7 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 # from sklearn.preprocessing import StandardScaler
 # import pandas as pd
-from data_preprocessing import load_data, preprocess_data
+from src.data_preprocessing import load_data, preprocess_data
 
 
 # Set up MLflow experiment

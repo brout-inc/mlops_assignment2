@@ -4,7 +4,7 @@ import numpy as np
 # import pandas as pd
 import mlflow.sklearn
 from sklearn.model_selection import train_test_split
-from data_preprocessing import load_data, preprocess_data
+from src.data_preprocessing import load_data, preprocess_data
 
 
 # Load Model
