@@ -1,4 +1,4 @@
-name: M1 CI/CD Pipeline
+name: M2 CI/CD Pipeline
 
 on:
   push:
