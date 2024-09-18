@@ -31,7 +31,7 @@ def objective(trial):
     # fit the model
     clf.fit(X_train, y_train)
     y_pred = clf.predict(X_test)
-    # Calculate metrics
+    # Calculate model metrics
     accuracy = accuracy_score(y_test, y_pred)
     precision = precision_score(y_test, y_pred, average='weighted')
     recall = recall_score(y_test, y_pred, average='weighted')
