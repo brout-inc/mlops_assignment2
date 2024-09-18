@@ -14,9 +14,9 @@ def load_data(filepath):
 
 # Generate EDA Report
 def generate_eda_report(data):
-    #Generate the EDA report
+    # Generate the EDA report
     report = create_report(data)
-    #Save the report to an HTML file
+    # Save the report to an HTML file
     report.save("eda_reports/wine_quality_eda_report.html")
 
 
@@ -27,11 +27,9 @@ def remove_outliers_iqr(df, columns):
         Q1 = df[col].quantile(0.25)
         Q3 = df[col].quantile(0.75)
         IQR = Q3 - Q1
-        
         # Define lower and upper bound to identify outliers
         lower_bound = Q1 - 1.5 * IQR
         upper_bound = Q3 + 1.5 * IQR
-        
         # Remove outliers
         df = df[(df[col] >= lower_bound) & (df[col] <= upper_bound)]
     return df
@@ -58,6 +56,6 @@ def preprocess_data(data):
 
 # Main
 if __name__ == '__main__':
-    filepath="data/winequality-red.csv"
+    filepath = "data/winequality-red.csv"
     data = load_data(filepath)
     generate_eda_report(data)

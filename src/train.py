@@ -6,8 +6,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
-#from sklearn.preprocessing import StandardScaler
-#import pandas as pd
+# from sklearn.preprocessing import StandardScaler
+# import pandas as pd
 from data_preprocessing import load_data, preprocess_data
 
 
@@ -57,7 +57,7 @@ def objective(trial):
 # Main
 if __name__ == "__main__":
     # wine quality dataset
-    filepath="data/winequality-red.csv"
+    filepath = "data/winequality-red.csv"
     # Load dataset
     df = load_data(filepath)
     # Preprocess dataset
