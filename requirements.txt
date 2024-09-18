@@ -9,3 +9,4 @@ pandas==1.5.3
 Werkzeug==2.0.1
 optuna==4.0.0
 lime==0.2.0.1
+dataprep==0.4.5
