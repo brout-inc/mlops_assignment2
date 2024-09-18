@@ -9,7 +9,7 @@ app = Flask(__name__)
 logging.basicConfig(level=logging.DEBUG)
 
 # Load the best model
-model_path = "mlruns/685198553198724242/0c9c9f6e6f254e48b74283eefda14c4b/artifacts/best_model"
+model_path = "mlruns/243160397281920152/37758a0e99404b89b207ff86ad1058ac/artifacts/model"
 model = mlflow.sklearn.load_model(model_path)
 
 @app.route('/predict', methods=['POST'])
