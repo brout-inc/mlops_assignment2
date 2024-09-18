@@ -29,8 +29,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 
 # Feature names from the wine quality dataset
-feature_names = ['fixed_acidity', 'volatile_acidity', 'citric_acid', 'residual_sugar', 
-                 'chlorides', 'free_sulfur_dioxide', 'total_sulfur_dioxide', 'density', 
+feature_names = ['fixed_acidity', 'volatile_acidity', 'citric_acid', 'residual_sugar',
+                 'chlorides', 'free_sulfur_dioxide', 'total_sulfur_dioxide', 'density',
                  'pH', 'sulphates', 'alcohol']
 # Initialize the LIME explainer for tabular data
 explainer = lime.lime_tabular.LimeTabularExplainer(
