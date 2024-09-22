@@ -12,15 +12,15 @@ In this assignment, you will build a complete end-to-end machine learning (ML) w
 * Task: Train multiple models, tune hyperparameters, and select the best-performing model.
 * Details: Utilize tools like AutoML, KizenML, or others for model selection and hyperparameter tuning. Document the experimentation process and justify your model choice.
 	
-## 3.Explainable AI (XAI) Implementation (6 Marks):
+## 3.Explainable AI (XAI) Implementation:
 * Task: Apply Explainable AI techniques to make your model’s predictions interpretable.
 * Details: Use XAI tools such as SHAP, LIME, or others to provide insights into your model’s decision-making process. Discuss the importance of interpretability in your model and how XAI tools helped achieve it.
 	
-## 4.Model Deployment Using Cloud Services (6 Marks):
+## 4.Model Deployment Using Cloud Services:
 * Task: Deploy your trained model using free-tier cloud services such as AWS or Azure.
 * Details: Create an API or web interface using services like AWS Lambda, Azure Functions, or any other cloud service. Demonstrate how to make predictions using the deployed model.
 
-## 5.Workflow Documentation and Explanation (8 Marks):
+## 5.Workflow Documentation and Explanation:
 * Task: Document the entire end-to-end workflow and provide a screen recording that explains the process.
 * Screen Recording: Record a video walkthrough of your workflow, explaining each step and the tools used.
 * Documentation: Provide detailed written documentation that includes code snippets, explanations of each step, challenges encountered, and how they were resolved.
